@@ -418,9 +418,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [Muhammad Toqeer Zafar](toqeerzafarm@gmail.com)
 
-Project Link: [https://github.com/yourusername/tweet-sentiment-analysis](https://github.com/yourusername/tweet-sentiment-analysis)
+Project Link: [https://github.com/mtoqeerzafar/tweet-sentiment-analysis](https://github.com/mtoqeerzafar/tweet-sentiment-analysis)
 
 ## 🙏 Acknowledgments
 
